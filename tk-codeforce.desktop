@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=2.0
+Type=Application
+Name=tk-codeforce
+Comment=Minimal stdeb example
+# myscript should wait for user input at the end, else the terminal
+# window will disappear immediately.
+Exec=tk_codeforce.py
+# Categories=Utility;
+# desktop should run this in a terminal application
+Terminal=true
+StartupNotify=true
+StartupWMClass=tk-codeforce
